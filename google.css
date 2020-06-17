@@ -1,0 +1,7 @@
+header {
+    position: relative;
+  }
+  #navbar {
+    position: absolute;
+    right: 0px;
+  }
