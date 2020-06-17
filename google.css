@@ -19,3 +19,17 @@ header {
     padding-left: 800px;
     padding-top: 200px;
   }
+  #search_form {
+    padding-left: 800px;
+  }
+  #search_bar {
+    width: 270px;
+  }
+  #search_submit {
+    margin: 10px;
+    padding: 5px;
+  }
+  #lucky_submit {
+    margin: 10px;
+    padding: 5px;
+  }
