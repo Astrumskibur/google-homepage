@@ -16,10 +16,6 @@ header {
     position: relative;
   }
   #company_logo {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-top: -50px;
-    margin-left: -50px;
-    padding-top: 130px;
+    padding-left: 800px;
+    padding-top: 200px;
   }
