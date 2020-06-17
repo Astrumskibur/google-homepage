@@ -5,3 +5,11 @@ header {
     position: absolute;
     right: 0px;
   }
+  ul {
+    display: flex;
+  }
+  li {
+    display: inline;
+    padding: 30px;
+  }
+  
