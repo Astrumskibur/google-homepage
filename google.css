@@ -33,3 +33,7 @@ header {
     margin: 10px;
     padding: 5px;
   }
+  #footer {
+    position: fixed;
+    bottom: 0;
+  }
